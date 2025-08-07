@@ -1,7 +1,7 @@
 # **Documentation Face Recognition System with OpenCV**
 
 ## Project Description
-This project aims to develop a face recognition system using LBPH (Local Binary Patterns Histograms) based face recognition algorithm and Haar Cascade Classifier for face detection. The project consists of three main parts: face dataset collection, training the face recognition model, and real-time face recognition.
+This project uses Python and OpenCV to recognize faces using your webcam. It’s built around three main steps: collecting face data, training a model, and recognizing faces in real time.
 
 ## Part 1: Face Dataset Collection (`face_dataset.py`)
 - This program is used to collect a face dataset from the camera.
